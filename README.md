@@ -26,10 +26,10 @@
 
 <br>
 
-#### <a href="#">01 Java 环境配置 & 第一个 Java 程序</a>
-#### <a href="#">02 数据类型 </a>
-#### <a href="#">03 变量&运算符 </a>
-#### <a href="#"> </a>
+#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/01%20Java%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20%26%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Java%20%E7%A8%8B%E5%BA%8F.md">01 Java 环境配置 & 第一个 Java 程序</a>
+#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/01%20Java%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20%26%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Java%20%E7%A8%8B%E5%BA%8F.md">02 数据类型 </a>
+#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/01%20Java%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20%26%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Java%20%E7%A8%8B%E5%BA%8F.md">03 变量 </a>
+#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/01%20Java%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20%26%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Java%20%E7%A8%8B%E5%BA%8F.md">04 运算符 </a>
 
 </div>
 
