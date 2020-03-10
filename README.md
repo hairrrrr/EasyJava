@@ -27,9 +27,9 @@
 <br>
 
 #### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/01%20Java%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20%26%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Java%20%E7%A8%8B%E5%BA%8F.md">01 Java 环境配置 & 第一个 Java 程序</a>
-#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/01%20Java%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20%26%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Java%20%E7%A8%8B%E5%BA%8F.md">02 数据类型 </a>
-#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/01%20Java%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20%26%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Java%20%E7%A8%8B%E5%BA%8F.md">03 变量 </a>
-#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/01%20Java%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20%26%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Java%20%E7%A8%8B%E5%BA%8F.md">04 运算符 </a>
+#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/02%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md">02 数据类型 </a>
+#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/03%20%E5%8F%98%E9%87%8F.md">03 变量 </a>
+#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/04%20%E8%BF%90%E7%AE%97%E7%AC%A6.md">04 运算符 </a>
 
 </div>
 
