@@ -20,7 +20,17 @@
 
 <br>
 
-<div>
+## 导航
+
+- <a href="#catalogue">免费获取学习 Java 必读经典的电子书</a>
+- <a href="#book">免费获取学习 Java 必读经典的电子书</a>
+
+
+
+
+<br>
+
+<div id="catalogue">
 
 ## Catalogue 目录
 
@@ -37,8 +47,33 @@
 
 </div>
 
+
 <br>
 
+## 免费获取学习 java 必读经典的电子书
+
+<div id="book">
+
+如果侵权，请联系我的邮箱 shepardwang2020@outlook.com，我会第一时间删除
+
+下面的书已经收集，并且本仓库还在持续增加电子书。如果对你有帮助，请点一个 star ~ ，让更多的人获得帮助。
+
+- 《Java 核心技术：卷 1》（第十版）
+- 《Java 多线程编程艺术》
+- 《Java 并发编程艺术》
+- 《Java 编程思想》（第四版）
+- 《Effective Java》（第二版）
+- 《Think in Java》
+- 《Java 程序员面试宝典》
+
+
+获取方式：**关注微信公众号【不会编程的程序圆】** ，后台回复  **【javabook】** ，即可获得下载链接
+
+</div>
+
+
+
+<br>
 ## 关于我 About Me
 <div id = "weixin" align="center">
 <p>我的社交平台</p>
@@ -46,8 +81,7 @@
 	<br><br>
 	微信公众号：不会编程的程序圆
     <p><img width="320px" src="https://github.com/hairrrrr/C-CrashCourse/blob/master/img/QR%20Code/1.png"></img></p>
-    学习英语关注她，一个四六级都过了的学姐：
-    <p><img width="320px" src="https://github.com/hairrrrr/C-CrashCourse/blob/master/img/QR%20Code/0.jpg"></img></p>
+
 
 </div>
 
