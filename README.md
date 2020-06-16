@@ -22,7 +22,7 @@
 
 ## 导航
 
-- <a href="#catalogue">免费获取学习 Java 必读经典的电子书</a>
+- <a href="#catalogue">Java SE</a>
 - <a href="#book">免费获取学习 Java 必读经典的电子书</a>
 
 
@@ -74,7 +74,9 @@
 
 
 <br>
+
 ## 关于我 About Me
+
 <div id = "weixin" align="center">
 <p>我的社交平台</p>
 	<a href="https://www.zhihu.com/people/wang-ni-ma-46-25"> 知乎 </a> / <a href="https://blog.csdn.net/qq_44954010"> CSDN </a> / <a href="https://www.jianshu.com/u/30f0dcfc671c"> 简书 </a> 
