@@ -38,10 +38,10 @@
 
 <br>
 
--  <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/01%20Java%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20%26%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Java%20%E7%A8%8B%E5%BA%8F.md">1 Java 环境配置 & 第一个 Java 程序</a>
-- <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/02%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md">2 数据类型 </a>
-- <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/03%20%E5%8F%98%E9%87%8F.md">3 变量 </a>
--  <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/04%20%E8%BF%90%E7%AE%97%E7%AC%A6.md">4 运算符 </a>
+- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483953&idx=2&sn=0d8065737288fc9b79b3a06b702eee38&chksm=9b51a9a0ac2620b6490692716ce4b54ecfb781c2a41d5cb9e30b2184664efa86977421a19d4d&scene=21#wechat_redirect">1 Java 环境配置 & 第一个 Java 程序</a>
+- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484013&idx=1&sn=26f105afa63cff08bf4e5c262b895ca3&chksm=9b51a9fcac2620eaaa41f9ba317079e96fb7ae43d4668b28b70baf3f29eb3165cbe49bccf564&scene=21#wechat_redirect">2 数据类型 </a>
+- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484013&idx=2&sn=3ae5fbd7e575fb928bc04a31e034e46d&chksm=9b51a9fcac2620eaff3e587d1dc7d0d00d3ebcb213b2e44eb8b8f6a5a34dbe7c614b845055e1&scene=21#wechat_redirect">3 变量 </a>
+-  <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484101&idx=3&sn=26d377e2b604c25cfbabbbc1373f12c9&chksm=9b51a954ac26204240f73d0944a7faf74499e141cb2ec219eab85d4ef51c3a84ec59bebf7e85&scene=21#wechat_redirect">4 运算符 </a>
 -  <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484101&idx=4&sn=ac44f783d26929b1a74fd12e1d935291&chksm=9b51a954ac2620425dccde2eb81be1600c14cfc984af3bcc3c9abb4a54185893ffb3e94ef160&scene=21#wechat_redirect">5 分支和循环</a>
 -  <a href="https://mp.weixin.qq.com/s/LVY-8jZJSG5IUdmxK4bn7w">6 方法 </a>
 -  <a href="https://mp.weixin.qq.com/s/ck1qXXhgR6j4URnCAd8uZg">7 数组 </a>
