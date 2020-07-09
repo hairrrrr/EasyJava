@@ -23,6 +23,8 @@
 ## 导航
 
 - <a href="#catalogue">Java SE</a>
+- <a href="#tool">实用工具</a>
+- <a href="#exam">Java 课程设计作业</a>
 - <a href="#book">免费获取学习 Java 必读经典的电子书</a>
 
 
@@ -36,17 +38,42 @@
 
 <br>
 
-#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/01%20Java%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20%26%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Java%20%E7%A8%8B%E5%BA%8F.md">01 Java 环境配置 & 第一个 Java 程序</a>
-#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/02%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md">02 数据类型 </a>
-#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/03%20%E5%8F%98%E9%87%8F.md">03 变量 </a>
-#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/04%20%E8%BF%90%E7%AE%97%E7%AC%A6.md">04 运算符 </a>
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484101&idx=4&sn=ac44f783d26929b1a74fd12e1d935291&chksm=9b51a954ac2620425dccde2eb81be1600c14cfc984af3bcc3c9abb4a54185893ffb3e94ef160&scene=21#wechat_redirect">05 分支和循环</a>
-#### <a href=""> </a>
-#### <a href=""> </a>
-#### <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/tree/master/code/Practise">习题答案</a>
+-  <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/01%20Java%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20%26%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Java%20%E7%A8%8B%E5%BA%8F.md">1 Java 环境配置 & 第一个 Java 程序</a>
+- <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/02%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md">2 数据类型 </a>
+- <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/03%20%E5%8F%98%E9%87%8F.md">3 变量 </a>
+-  <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/blob/master/text/04%20%E8%BF%90%E7%AE%97%E7%AC%A6.md">4 运算符 </a>
+-  <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484101&idx=4&sn=ac44f783d26929b1a74fd12e1d935291&chksm=9b51a954ac2620425dccde2eb81be1600c14cfc984af3bcc3c9abb4a54185893ffb3e94ef160&scene=21#wechat_redirect">5 分支和循环</a>
+-  <a href="https://mp.weixin.qq.com/s/LVY-8jZJSG5IUdmxK4bn7w">6 方法 </a>
+-  <a href="https://mp.weixin.qq.com/s/ck1qXXhgR6j4URnCAd8uZg">7 数组 </a>
+-  <a href="https://mp.weixin.qq.com/s/n3_sWVXMJkgWdaJgnaOSwQ">8 数组习题 </a>
+-  <a href=""> </a>
+-  <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/tree/master/code/Practise">习题答案</a>
 
 </div>
 
+<br>
+
+## 实用工具
+
+<div id="tool">
+
+-  <a href="https://mp.weixin.qq.com/s/qIcQsODo7w8eUyqsK2H2JA">AWT 实现的 GUI 计算器</a>
+-  <a href=""> </a>
+-  <a href=""> </a>
+
+</div>
+
+<br>
+
+## Java 课程设计作业
+
+<div id="exam">
+
+-  <a href="https://mp.weixin.qq.com/s/gzVKESrBAHAFyHNOJAKmAQ">IDEA 新手实用插件分享：让你的 IDEA 逼格瞬间提升</a>
+-  <a href="https://mp.weixin.qq.com/s/ruHt18W9z-b9O92u3TWnFA">IDEA 更改配色和主题 </a>
+- <a href=""> </a>
+
+</div>
 
 <br>
 
