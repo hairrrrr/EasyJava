@@ -46,8 +46,10 @@
 -  <a href="https://mp.weixin.qq.com/s/LVY-8jZJSG5IUdmxK4bn7w">6 方法 </a>
 -  <a href="https://mp.weixin.qq.com/s/ck1qXXhgR6j4URnCAd8uZg">7 数组 </a>
 -  <a href="https://mp.weixin.qq.com/s/n3_sWVXMJkgWdaJgnaOSwQ">8 数组习题 </a>
--  <a href=""> </a>
 -  <a href="https://github.com/hairrrrr/Java_SE_EnjoyLearning/tree/master/code/Practise">习题答案</a>
+
+
+<a href=""> </a>
 
 </div>
 
@@ -57,9 +59,9 @@
 
 <div id="tool">
 
--  <a href="https://mp.weixin.qq.com/s/qIcQsODo7w8eUyqsK2H2JA">AWT 实现的 GUI 计算器</a>
--  <a href=""> </a>
--  <a href=""> </a>
+-  <a href="https://mp.weixin.qq.com/s/gzVKESrBAHAFyHNOJAKmAQ">IDEA 新手实用插件分享：让你的 IDEA 逼格瞬间提升</a>
+-  <a href="https://mp.weixin.qq.com/s/ruHt18W9z-b9O92u3TWnFA">IDEA 更改配色和主题 </a>
+<a href=""> </a>
 
 </div>
 
@@ -69,9 +71,9 @@
 
 <div id="exam">
 
--  <a href="https://mp.weixin.qq.com/s/gzVKESrBAHAFyHNOJAKmAQ">IDEA 新手实用插件分享：让你的 IDEA 逼格瞬间提升</a>
--  <a href="https://mp.weixin.qq.com/s/ruHt18W9z-b9O92u3TWnFA">IDEA 更改配色和主题 </a>
-- <a href=""> </a>
+
+-  <a href="https://mp.weixin.qq.com/s/qIcQsODo7w8eUyqsK2H2JA">AWT 实现的 GUI 计算器</a>
+<a href=""> </a>
 
 </div>
 
